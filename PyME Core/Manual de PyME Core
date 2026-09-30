@@ -1,0 +1,70 @@
+# Manual de PyME Core
+
+# Informacion general
+
+El PyME Core representa una herramienta hecha para PyMEs con tal de compilar, analizar y evaluar decisiones de mercado en base a sus propios datos y a los del mercado de interes
+
+Esta implementacion en su formato original propone bajo una seguida de pasos los siguientes objetivos:
+- Entrada de Datos:
+     
+
+      En formato CSV o por menu de usuario hecho con codigo Python. 
+      Comprende toda la fuente de presupuesto, produccion e ingreso.
+
+**Para casos sin encriptacion de datos de clientes se hara automaticamente para brindar seguridad en la clientela**
+
+- Ajustes Graficos: 
+
+        Se generan las graficas correspondientes, variables tipicas, no atipicas,financieras,listado de productos de mayor demanda y el estado economico actual sin necesidad de contexto
+
+- Evaluacion en Contexto e informe de calidad y puntos criticos
+        
+      Apartir de una base estadistica actualizada se crea una comparacion con el mercado. El mercado siendo bajo el contexto de inversion y produccion en el area:
+
+        - Regional
+        - Nacional
+        - LATAM
+
+      Considerando la eficiencia actual, representando por tablas y un informe con puntuacion que delimita con referencias a la data entregada aquellas falencias, mejoras en gestion y administracion de su empresa. En aquel informe se añade el margen correspondiente, los principios y una tabla de puntuacion para evaluar
+
+Prioriza tres estados Operacion, Gestion e Inteligencia. En termino mas simples
+
+La seccion de Operacion trata con:
+
+    Venta, compra, stocking, presupuesto y registro de compra
+
+La seccion Gestion va sobre:
+
+    Productos destacados, cambios de proveedor, patrones en clientes, estancamientos
+
+Y la seccion Inteligencia se enfoca en:
+
+    
+
+# Investigacion 
+
+
+
+# Detales a incluir
+
+# Parametros a incluir en la APP (SaaS)
+
+La base conceptual es:
+
+- Clientes	
+- Productos	
+- Inventario	
+- Materias primas	
+- Compras	
+- Ventas	
+- Costos	
+- Producción	
+- Promociones	
+- Rentabilidad	
+- Dashboard	
+- Historial/eventos	
+- Exportación	
+- Consultas mediante IA	
+- Alertas
+
+# Historial de avance
